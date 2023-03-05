@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp",
+			"*.tcc": "cpp",
+			"fstream": "cpp"
+		}
+	}
+}
